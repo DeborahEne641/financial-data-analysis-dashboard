@@ -94,12 +94,5 @@ The company should implement a cost optimization strategy to reduce excessive sp
 - Dashboard Development
 - Business Insight Generation
 
-
-🔹 Project Preview
-
-
-🔹 Author
-Deborah Ene
-🔹 Contact 08144227576
-
+🔹 Project Preview   ![Dashboard](dashboard/dashboard_image.png)   Contact8144227576
 Open to entry-level data analyst roles and remote opportunities.
